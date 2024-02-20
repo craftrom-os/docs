@@ -1,0 +1,55 @@
+Thread title: [ROM][13][DEVICE] CraftRom OS [AOSP][CROS]
+
+[CENTER]
+[img]https://raw.githubusercontent.com/craftrom-os/docs/master/img/CraftRom%20Presentation.png[/img]
+[SIZE="5"][b][color=#1a73e8]CraftRom OS for DeviceName [codename][/color][/b][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]What is this?[/color][/b][/SIZE]
+[SIZE="3"]Functionally Minimalistic! CraftRom OS is a Custom OS based on AOSP with enhancements tweaks from and some features to enhance your daily driving experience.
+[/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Whats working?[/color][/b][/SIZE]
+[SIZE="3"]Wi-Fi
+RIL
+Mobile data
+GPS
+Camera
+Flashlight
+Camcorder
+Bluetooth
+FM radio
+Fingerprint reader
+Face unlock
+NFC
+Lights
+Sound/vibration[/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Known issues[/color][/b][/SIZE]
+[SIZE="3"]Nothing yet[/SIZE]
+[SIZE="3"]You tell me[/SIZE]
+
+[SIZE="3"][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
+[SIZE="3"][url="https://sourceforge.net/projects/craftrom/files/DEVICE_CODENAME/thrall/"][b][color=#1a73e8][u]Download[/u][/color][/b][/url][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Donate[/color][/b][/SIZE]
+[SIZE="3"][url="https://www.craft-rom.pp.ua/donate/"][b][color=#1a73e8][u]Like my work? Support me if you wish.[/u][/color][/b][/url][/SIZE]
+[/CENTER]
+
+[SIZE="4"][b][color=#1a73e8]Connect with us[/color][/b][/SIZE]
+[LEFT][SIZE="3"][LIST]
+[*][B]CraftRom Discord[/B]
+[URL unfurl="true"]https://discord.gg/uqdRxzbmqe[/URL]
+[*][B]CraftRom Telegram Channel[/B]
+[URL unfurl="true"]https://t.me/craftrom_news[/URL]
+[*][B]CraftRom Chat Support[/B]
+[URL unfurl="true"]https://t.me/craftrom[/URL]
+[*][B]CraftRom Website[/B]
+[URL unfurl="true"]https://www.craft-rom.pp.ua[/URL]
+[/LIST][/SIZE][/LEFT]
+
+[LEFT][SIZE="3"][list]
+[*][b]Android OS version:[/b] 13
+[*][b]Build author/Device Maintainer:[/b] [url=XDA_PROFILE_URL]XDA_USERNAME[/url]
+[*][b]Source code:[/b] [url=https://github.com/craftrom-os]CraftRom source[/url]
+[*][b]ROM Developer:[/b] [url=https://xdaforums.com/m/melles-android.7269091/]melles1991[/url]
+[/list][/SIZE][/LEFT]
